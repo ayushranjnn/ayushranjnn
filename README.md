@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ayush Ranjan
 
-🎓 B.Tech CSE @ KIIT | 🚀 Keploy API Fellow | 💻 Aspiring Software Engineer  
+🎓 B.Tech CSE @ KIIT | 💻 Aspiring Software Engineer  
 ⚡ Exploring Open Source, Ethical Hacking & Real-World APIs  
 
 ---
